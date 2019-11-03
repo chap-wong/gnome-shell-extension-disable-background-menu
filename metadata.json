@@ -1,0 +1,10 @@
+{
+	"description": "Disable background menu from popping up",
+	"name": "disable background menu",
+	"shell-version": [
+		"3.28.4"
+	],
+	"url": "",
+	"uuid": "disable-background-menu@git.wongwanchap.mo",
+	"version": 1
+}
